@@ -79,7 +79,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  background-color: #45a049; /* 호버 시 버튼 색 변경 */
+  background-color: #5ADCF3; /* 호버 시 버튼 색 변경 */
   transform: scale(1.1); /* 버튼 크기 확대 효과 */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 버튼 입체감 */
 }
