@@ -73,7 +73,7 @@ nav ul li a {
   font-size: 1rem;
   color: white;
   text-decoration: none;
-  background-color: #4CAF50; /* 기본 버튼 색상 */
+  background-color: #7FDBFF; /* 기본 버튼 색상 */
   border-radius: 25px; /* 둥근 버튼 효과 */
   transition: all 0.3s ease; /* 호버 시 부드러운 효과 */
 }
